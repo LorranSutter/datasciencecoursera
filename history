@@ -1,0 +1,98 @@
+install.packages("swirl")
+library(swirl)
+swirl()
+library(datasets)
+data("airquality")
+cor(airquality)
+?cor
+airquality
+head(airquality)
+?as
+matrix(3,2)
+matrix(3,2,2)
+matrix([],2,2)
+matrix(NA,2,2)
+matrix([[]],2,2)
+matrix(NULL,2,2)
+matrix(0,2,2)
+View(airquality)
+rm(airquality)
+x1 <- c(0.5,0.6)
+x2 <- c(TRUE,FALSE)
+x3 <- c(T,F)
+x4 <- c("a","b","c")
+x5 <- 9:29
+x6 <- c(1+0i,2+4i)
+x7 <- vector("numeric", length = 10)
+y1 <- c(1.7,"a")
+y2 <- c(TRUE,2)
+y3 <- c("a",TRUE)
+class(x1)
+class(x2)
+class(y1)
+class(y2)
+class(y3)
+as.numeric(x1)
+class(x7)
+as.numeric(x7)
+as.logical(x7)
+as.logical(x1)
+as.logical(x2)
+as.character(x1)
+as.numeric(x4)
+as.complex(x4)
+m <- matrix(nrow = 2, ncol = 3)
+m
+dim(m)
+attributes(m)
+m2 <- matrix(1:6, nrow = 2, ncol = 3)
+m2
+m2 <- matrix(1:6, nrow = 2, ncol = 2)
+m2
+m2 <- matrix(1:6, nrow = 2, ncol = 4)
+m2 <- matrix(1:6, nrow = 2, ncol = 3)
+m2
+n <- 1:10
+rm(n)
+m3 <- 1:10
+dim(m)
+dim(m3)
+dim(m3) <- c(2,5)
+m3
+a <- 1:3
+b <- 10:12
+cbind(a,b)
+rbind(a,b)
+history(Inf)
+savehistory('file')
+dir()
+setwd("C:/Users/Lorran Sutter/datasciencecoursera")
+savehistory('file')
+x8 <- factor(c("yes","yes","no","yes","no"))
+x8
+table(x8)
+unclass(x8)
+x8 <- factor(c("yes","yes","no","yes","no"), levels = c("yes","no"))
+x8
+x9 <- c(1,2,NA,10,3)
+is.na(x9)
+is.nan(x9)
+x10 <- c(1,2,NaN,NA,4)
+is.na(x10)
+is.nan(x10)
+x11 <- data.frame(foo = 1:4, bar = c(T,T,F,F))
+x11
+nrow(x11)
+ncol(x11)
+x12 <- 1:3
+names(x12)
+names(x12) <- c("foo","bar","norf")
+x12
+names(x12)
+x13 <- list(a = 1, b = 2, c = 3)
+x13
+m4 <- matrix(1:4,nrow = 2, nco)
+m4 <- matrix(1:4,nrow = 2, ncol = 2)
+dimnames(m4) <- list(c("a","b"),c("c","d"))
+m4
+savehistory('history')
