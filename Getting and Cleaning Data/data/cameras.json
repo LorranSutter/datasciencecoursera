@@ -1,0 +1,961 @@
+[ {
+  "location_1" : {
+    "latitude" : "39.2693779962",
+    "needs_recoding" : false,
+    "longitude" : "-76.6688185297"
+  },
+  "address" : "S CATON AVE & BENSON AVE",
+  "street" : "Caton Ave",
+  "intersection" : "Caton Ave & Benson Ave",
+  "crossstreet" : "Benson Ave",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2693157898",
+    "needs_recoding" : false,
+    "longitude" : "-76.6689698176"
+  },
+  "address" : "S CATON AVE & BENSON AVE",
+  "street" : "Caton Ave",
+  "intersection" : "Caton Ave & Benson Ave",
+  "crossstreet" : "Benson Ave",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2720252302",
+    "needs_recoding" : false,
+    "longitude" : "-76.676960806"
+  },
+  "address" : "WILKENS AVE & PINE HEIGHTS AVE",
+  "street" : "Wilkens Ave",
+  "intersection" : "Wilkens Ave & Pine Heights",
+  "crossstreet" : "Pine Heights",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3285013141",
+    "needs_recoding" : false,
+    "longitude" : "-76.5953545714"
+  },
+  "address" : "THE ALAMEDA & E 33RD ST",
+  "street" : "The Alameda",
+  "intersection" : "The Alameda  & 33rd St",
+  "crossstreet" : "33rd St",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3283410623",
+    "needs_recoding" : false,
+    "longitude" : "-76.5953594625"
+  },
+  "address" : "E 33RD ST & THE ALAMEDA",
+  "street" : "E 33rd",
+  "intersection" : "E 33rd  & The Alameda",
+  "crossstreet" : "The Alameda",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3068045671",
+    "needs_recoding" : false,
+    "longitude" : "-76.5593167803"
+  },
+  "address" : "ERDMAN AVE & N MACON ST",
+  "street" : "Erdman",
+  "intersection" : "Erdman  & Macon St",
+  "crossstreet" : "Macon St",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.306966535",
+    "needs_recoding" : false,
+    "longitude" : "-76.5593122365"
+  },
+  "address" : "ERDMAN AVE & N MACON ST",
+  "street" : "Erdman",
+  "intersection" : "Erdman  & Macon St",
+  "crossstreet" : "Macon St",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3690535299",
+    "needs_recoding" : false,
+    "longitude" : "-76.625826716"
+  },
+  "address" : "N CHARLES ST & E LAKE AVE",
+  "street" : "Charles",
+  "intersection" : "Charles & Lake Ave",
+  "crossstreet" : "Lake Ave",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2993257666",
+    "needs_recoding" : false,
+    "longitude" : "-76.5976760827"
+  },
+  "address" : "E MADISON ST & N CAROLINE ST",
+  "street" : "Madison",
+  "intersection" : "Madison  & Caroline St",
+  "crossstreet" : "Caroline St",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2958661981",
+    "needs_recoding" : false,
+    "longitude" : "-76.5764270078"
+  },
+  "address" : "ORLEANS ST & N LINWOOD AVE",
+  "street" : "Orleans",
+  "intersection" : "Orleans   & Linwood Ave",
+  "crossstreet" : "Linwood Ave",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2877626582",
+    "needs_recoding" : false,
+    "longitude" : "-76.5371017795"
+  },
+  "address" : "EASTERN AVE & KANE ST",
+  "street" : "Eastern",
+  "intersection" : "Eastern  & Kane St",
+  "crossstreet" : "Kane St",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2923680595",
+    "needs_recoding" : false,
+    "longitude" : "-76.7017056326"
+  },
+  "address" : "EDMONDSON AVE & COOKS LN",
+  "street" : "Edmonson",
+  "intersection" : "Edmonson  & Cooks Lane",
+  "crossstreet" : "Cooks Lane",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2937082594",
+    "needs_recoding" : false,
+    "longitude" : "-76.6503837515"
+  },
+  "address" : "W FRANKLIN ST & N PULASKI ST",
+  "street" : "Franklin",
+  "intersection" : "Franklin  & Pulaski St",
+  "crossstreet" : "Pulaski St",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2947203114",
+    "needs_recoding" : false,
+    "longitude" : "-76.606128007"
+  },
+  "address" : "ORLEANS ST & N GAY ST",
+  "street" : "Orleans",
+  "intersection" : "Orleans  & Gay St",
+  "crossstreet" : "Gay St",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2834598231",
+    "needs_recoding" : false,
+    "longitude" : "-76.6261138807"
+  },
+  "address" : "S MARTIN LUTHER KING JR BLVD & WASHINGTON BLVD",
+  "street" : "MLK Jr. Blvd.",
+  "intersection" : "MLK Jr. Blvd.  & Washington Blvd",
+  "crossstreet" : "Washington Blvd",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3399907644",
+    "needs_recoding" : false,
+    "longitude" : "-76.588021025"
+  },
+  "address" : "HILLEN RD & ARGONNE DR",
+  "street" : "Hillen Rd",
+  "intersection" : "Hillen Rd  & Argonne Drive",
+  "crossstreet" : "Argonne Drive",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3110873669",
+    "needs_recoding" : false,
+    "longitude" : "-76.6193071428"
+  },
+  "address" : "W NORTH AVE & N HOWARD ST",
+  "street" : "North Ave",
+  "intersection" : "North Ave  & Howard St",
+  "crossstreet" : "Howard St",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2372692804",
+    "needs_recoding" : false,
+    "longitude" : "-76.6054039252"
+  },
+  "address" : "E PATAPSCO AVE & 4TH ST",
+  "street" : "Patapsco  \n",
+  "intersection" : "Patapsco  \n & 4th St",
+  "crossstreet" : "4th St",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3621351031",
+    "needs_recoding" : false,
+    "longitude" : "-76.7102427408"
+  },
+  "address" : "REISTERSTOWN RD & FALLSTAFF RD",
+  "street" : "Reisterstown",
+  "intersection" : "Reisterstown   & Fallstaff Road",
+  "crossstreet" : "Fallstaff Road",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3499204055",
+    "needs_recoding" : false,
+    "longitude" : "-76.6788706721"
+  },
+  "address" : "PARK HEIGHTS AVE & HAYWARD AVE",
+  "street" : "Park Heights",
+  "intersection" : "Park Heights   & Hayward Ave",
+  "crossstreet" : "Hayward Ave",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3499204055",
+    "needs_recoding" : false,
+    "longitude" : "-76.6788706721"
+  },
+  "address" : "PARK HEIGHTS AVE & HAYWARD AVE",
+  "street" : "Park Heights",
+  "intersection" : "Park Heights   & Hayward Ave",
+  "crossstreet" : "Hayward Ave",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2860268994",
+    "needs_recoding" : false,
+    "longitude" : "-76.6278460704"
+  },
+  "address" : "S MARTIN LUTHER KING JR BLVD & W PRATT ST",
+  "street" : "MLK Jr. Blvd \n",
+  "intersection" : "MLK Jr. Blvd \n & Pratt St",
+  "crossstreet" : "Pratt St",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3550243172",
+    "needs_recoding" : false,
+    "longitude" : "-76.6604587972"
+  },
+  "address" : "W NORTHERN PKWY & GREENSPRING AVE",
+  "street" : "Northern Pkwy",
+  "intersection" : "Northern Pkwy   & Greenspring Ave",
+  "crossstreet" : "Greenspring Ave",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3551612114",
+    "needs_recoding" : false,
+    "longitude" : "-76.6605058823"
+  },
+  "address" : "W NORTHERN PKWY & GREENSPRING AVE",
+  "street" : "Northern Pkwy",
+  "intersection" : "Northern Pkwy  & Greenspring Ave",
+  "crossstreet" : "Greenspring Ave",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2934525382",
+    "needs_recoding" : false,
+    "longitude" : "-76.6893905792"
+  },
+  "address" : "EDMONDSON AVE & N ATHOL AVE",
+  "street" : "Edmonson\n",
+  "intersection" : "Edmonson\n  & Woodbridge Ave",
+  "crossstreet" : "Woodbridge Ave",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2935925831",
+    "needs_recoding" : false,
+    "longitude" : "-76.689399241"
+  },
+  "address" : "EDMONDSON AVE & N ATHOL AVE",
+  "street" : "Edmonson \n",
+  "intersection" : "Edmonson \n & Woodbridge Ave",
+  "crossstreet" : "Woodbridge Ave",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2833935865",
+    "needs_recoding" : false,
+    "longitude" : "-76.6559289926"
+  },
+  "address" : "FREDERICK AVE & S CATHERINE ST",
+  "street" : "Fredrick Ave\n",
+  "intersection" : "Fredrick Ave\n & Catherine Ave",
+  "crossstreet" : "Catherine Ave",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3307133383",
+    "needs_recoding" : false,
+    "longitude" : "-76.6597502076"
+  },
+  "address" : "PARK HEIGHTS AVE & VIOLET AVE",
+  "street" : "Park Heights",
+  "intersection" : "Park Heights  & Voilet Ave",
+  "crossstreet" : "Voilet Ave",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3220360862",
+    "needs_recoding" : false,
+    "longitude" : "-76.5484525966"
+  },
+  "address" : "SINCLAIR LN & MORAVIA RD",
+  "street" : "Sinclair",
+  "intersection" : "Sinclair  & Moravia Road",
+  "crossstreet" : "Moravia Road",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2749037576",
+    "needs_recoding" : false,
+    "longitude" : "-76.6681630903"
+  },
+  "address" : "WILKENS AVE & DESOTO RD",
+  "street" : "Wilkens",
+  "intersection" : "Wilkens  & DeSoto",
+  "crossstreet" : "DeSoto",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.367051509",
+    "needs_recoding" : false,
+    "longitude" : "-76.5810739873"
+  },
+  "address" : "E NORTHERN PKWY & WAVERLY WAY",
+  "street" : "Northern Pkwy",
+  "intersection" : "Northern Pkwy  & Waverly St",
+  "crossstreet" : "Waverly St",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3459074717",
+    "needs_recoding" : false,
+    "longitude" : "-76.5859273904"
+  },
+  "address" : "E COLD SPRING LN & HILLEN RD",
+  "street" : "Cold Spring",
+  "intersection" : "Cold Spring  & Hillen Road",
+  "crossstreet" : "Hillen Road",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.34390606",
+    "needs_recoding" : false,
+    "longitude" : "-76.6354262185"
+  },
+  "address" : "W COLD SPRING LN & ROLAND AVE",
+  "street" : "Cold Spring\n",
+  "intersection" : "Cold Spring\n  & Roland Ave",
+  "crossstreet" : "Roland Ave",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3460452397",
+    "needs_recoding" : false,
+    "longitude" : "-76.5920075335"
+  },
+  "address" : "E COLD SPRING LN & LOCH RAVEN BLVD",
+  "street" : "Cold Spring\n",
+  "intersection" : "Cold Spring\n  & Loch Raven Blvd",
+  "crossstreet" : "Loch Raven Blvd",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.343899313",
+    "needs_recoding" : false,
+    "longitude" : "-76.6519407916"
+  },
+  "address" : "TAMARIND RD & W COLD SPRING LN",
+  "street" : "Tamarind\n",
+  "intersection" : "Tamarind\n  & Coldspring Lane",
+  "crossstreet" : "Coldspring Lane",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3212074758",
+    "needs_recoding" : false,
+    "longitude" : "-76.5907705888"
+  },
+  "address" : "HARFORD RD & THE ALAMEDA",
+  "street" : "Harford \n",
+  "intersection" : "Harford \n & The Alameda",
+  "crossstreet" : "The Alameda",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3680654859",
+    "needs_recoding" : false,
+    "longitude" : "-76.5478183886"
+  },
+  "address" : "HARFORD RD & ROSALIE AVE",
+  "street" : "Harford\n",
+  "intersection" : "Harford\n  & Rosalie Ave",
+  "crossstreet" : "Rosalie Ave",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3583326463",
+    "needs_recoding" : false,
+    "longitude" : "-76.5562471252"
+  },
+  "address" : "HARFORD RD & CHRISTOPHER AVE",
+  "street" : "Harford \n",
+  "intersection" : "Harford \n & Christopher Ave",
+  "crossstreet" : "Christopher Ave",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3175028074",
+    "needs_recoding" : false,
+    "longitude" : "-76.5556737923"
+  },
+  "address" : "SINCLAIR LN & SHANNON DR",
+  "street" : "Sinclair\n",
+  "intersection" : "Sinclair\n  & Shannon Drive",
+  "crossstreet" : "Shannon Drive",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3175028074",
+    "needs_recoding" : false,
+    "longitude" : "-76.5556737923"
+  },
+  "address" : "SINCLAIR LN & SHANNON DR",
+  "street" : "Sinclair \n",
+  "intersection" : "Sinclair \n & Shannon Drive",
+  "crossstreet" : "Shannon Drive",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3304453818",
+    "needs_recoding" : false,
+    "longitude" : "-76.6945100293"
+  },
+  "address" : "LIBERTY HTS & HILLSDALE RD",
+  "street" : "Liberty Hghts\n",
+  "intersection" : "Liberty Hghts\n  & Hillsdale Ave",
+  "crossstreet" : "Hillsdale Ave",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3304453818",
+    "needs_recoding" : false,
+    "longitude" : "-76.6945100293"
+  },
+  "address" : "LIBERTY HTS & HILLSDALE RD",
+  "street" : "Liberty Hghts\n",
+  "intersection" : "Liberty Hghts\n  & Hillsdale Ave",
+  "crossstreet" : "Hillsdale Ave",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3643110382",
+    "needs_recoding" : false,
+    "longitude" : "-76.6176988692"
+  },
+  "address" : "E NORTHERN PKWY & SPRINGLAKE WAY",
+  "street" : "Northern Pkwy\n",
+  "intersection" : "Northern Pkwy\n  & Springlake Way",
+  "crossstreet" : "Springlake Way",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3353084656",
+    "needs_recoding" : false,
+    "longitude" : "-76.5751846354"
+  },
+  "address" : "HARFORD RD & WALTHER AVE",
+  "street" : "Harford",
+  "intersection" : "Harford  & Walther Ave",
+  "crossstreet" : "Walther Ave",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3614127238",
+    "needs_recoding" : false,
+    "longitude" : "-76.6462199216"
+  },
+  "address" : "W NORTHERN PKWY & FALLS RD",
+  "street" : "Northern Pkwy",
+  "intersection" : "Northern Pkwy  & Falls Road",
+  "crossstreet" : "Falls Road",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.294061339",
+    "needs_recoding" : false,
+    "longitude" : "-76.6727600072"
+  },
+  "address" : "EDMONDSON AVE & N HILTON ST",
+  "street" : "Edmonson",
+  "intersection" : "Edmonson  & Hilton St",
+  "crossstreet" : "Hilton St",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2906240776",
+    "needs_recoding" : false,
+    "longitude" : "-76.6066648277"
+  },
+  "address" : "N PRESIDENT ST & E FAYETTE ST",
+  "street" : "President",
+  "intersection" : "President  & Fayette St",
+  "crossstreet" : "Fayette St",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2797863216",
+    "needs_recoding" : false,
+    "longitude" : "-76.6237544477"
+  },
+  "address" : "RUSSELL ST & W HAMBURG ST",
+  "street" : "Russell \n",
+  "intersection" : "Russell \n & Hamburg St",
+  "crossstreet" : "Hamburg St",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2798187398",
+    "needs_recoding" : false,
+    "longitude" : "-76.6239105956"
+  },
+  "address" : "RUSSELL ST & W HAMBURG ST",
+  "street" : "Russell\n",
+  "intersection" : "Russell\n  & Hamburg St",
+  "crossstreet" : "Hamburg St",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2865415105",
+    "needs_recoding" : false,
+    "longitude" : "-76.6135493898"
+  },
+  "address" : "LIGHT ST & E PRATT ST",
+  "street" : "Light SB \n",
+  "intersection" : "Light SB \n & Pratt St",
+  "crossstreet" : "Pratt St",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2877660778",
+    "needs_recoding" : false,
+    "longitude" : "-76.6087475019"
+  },
+  "address" : "E LOMBARD ST & S GAY ST",
+  "street" : "Lombard \n",
+  "intersection" : "Lombard \n & Gay St",
+  "crossstreet" : "Gay St",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3119363297",
+    "needs_recoding" : false,
+    "longitude" : "-76.5993579666"
+  },
+  "address" : "HARFORD RD & E NORTH AVE",
+  "street" : "Harford Rd\n",
+  "intersection" : "Harford Rd\n  & North Ave",
+  "crossstreet" : "North Ave",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.1999130165",
+    "needs_recoding" : false,
+    "longitude" : "-76.5559766825"
+  },
+  "address" : "FORT SMALLWOOD RD & FORT ARMISTEAD RD",
+  "street" : "Ft Smallwood\n",
+  "intersection" : "Ft Smallwood\n  & Fort Armstead",
+  "crossstreet" : "Fort Armstead",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3412090597",
+    "needs_recoding" : false,
+    "longitude" : "-76.6831167251"
+  },
+  "address" : "GARRISON BLVD & WABASH AVE",
+  "street" : "Garrison \n",
+  "intersection" : "Garrison \n & Wabash Ave",
+  "crossstreet" : "Wabash Ave",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3535402213",
+    "needs_recoding" : false,
+    "longitude" : "-76.5424942905"
+  },
+  "address" : "WALTHER AVE & GLENMORE AVE",
+  "street" : "Walther \n",
+  "intersection" : "Walther \n & Glenmore",
+  "crossstreet" : "Glenmore",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2950659131",
+    "needs_recoding" : false,
+    "longitude" : "-76.616872047"
+  },
+  "address" : "W FRANKLIN ST & CATHEDRAL ST",
+  "street" : "Franklin \n",
+  "intersection" : "Franklin \n & Cathedral",
+  "crossstreet" : "Cathedral",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3549627467",
+    "needs_recoding" : false,
+    "longitude" : "-76.575725921"
+  },
+  "address" : "PERRING PKWY & E BELVEDERE AVE",
+  "street" : "Perring Pkwy\n",
+  "intersection" : "Perring Pkwy\n  & Belvedere Ave",
+  "crossstreet" : "Belvedere Ave",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3135792902",
+    "needs_recoding" : false,
+    "longitude" : "-76.6762250182"
+  },
+  "address" : "GWYNNS FLS & GARRISON BLVD",
+  "street" : "Gwynns Falls \n",
+  "intersection" : "Gwynns Falls \n  & Garrison Blvd",
+  "crossstreet" : "Garrison Blvd",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3252867997",
+    "needs_recoding" : false,
+    "longitude" : "-76.6577109834"
+  },
+  "address" : "REISTERSTOWN RD & DRUID PARK DR",
+  "street" : "Reistertown Rd\n",
+  "intersection" : "Reistertown Rd\n  & Druid Lake Drive",
+  "crossstreet" : "Druid Lake Drive",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2364856246",
+    "needs_recoding" : false,
+    "longitude" : "-76.6122106478"
+  },
+  "address" : "POTEE ST & TALBOTT ST",
+  "street" : "Potee\n",
+  "intersection" : "Potee\n  & Talbot",
+  "crossstreet" : "Talbot",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3704929583",
+    "needs_recoding" : false,
+    "longitude" : "-76.6098121277"
+  },
+  "address" : "YORK RD & GITTINGS AVE",
+  "street" : "York Rd \n",
+  "intersection" : "York Rd \n & Gitting Ave",
+  "crossstreet" : "Gitting Ave",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3416713553",
+    "needs_recoding" : false,
+    "longitude" : "-76.685042508"
+  },
+  "address" : "WABASH AVE & W BELVEDERE AVE",
+  "street" : "Wabash \n",
+  "intersection" : "Wabash \n & Belvedere Ave",
+  "crossstreet" : "Belvedere Ave",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3651462024",
+    "needs_recoding" : false,
+    "longitude" : "-76.6099220341"
+  },
+  "address" : "E NORTHERN PKWY & YORK RD",
+  "street" : "Northern Pkwy\n",
+  "intersection" : "Northern Pkwy\n  & York Road",
+  "crossstreet" : "York Road",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3561820401",
+    "needs_recoding" : false,
+    "longitude" : "-76.7025209585"
+  },
+  "address" : "REISTERSTOWN RD & PATTERSON AVE",
+  "street" : "Reistertown \n",
+  "intersection" : "Reistertown \n  & Patterson Ave",
+  "crossstreet" : "Patterson Ave",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2997984532",
+    "needs_recoding" : false,
+    "longitude" : "-76.5542506552"
+  },
+  "address" : "PULASKI HWY & E MONUMENT ST",
+  "street" : "Pulaski Hwy \n",
+  "intersection" : "Pulaski Hwy \n  & Monument St",
+  "crossstreet" : "Monument St",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2930857459",
+    "needs_recoding" : false,
+    "longitude" : "-76.6623624871"
+  },
+  "address" : "W FRANKLIN ST & N FRANKLINTOWN RD",
+  "street" : "Franklin \n",
+  "intersection" : "Franklin \n  & Franklintown Road",
+  "crossstreet" : "Franklintown Road",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2620595495",
+    "needs_recoding" : false,
+    "longitude" : "-76.6145872791"
+  },
+  "address" : "S HANOVER ST & E CROMWELL ST",
+  "street" : "Hanover \n",
+  "intersection" : " &",
+  "crossstreet" : "Cromwell St",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3519849983",
+    "needs_recoding" : false,
+    "longitude" : "-76.6963758159"
+  },
+  "address" : "REISTERSTOWN RD & MENLO DR",
+  "street" : "Reisterstown \n",
+  "intersection" : "Reisterstown \n & Menlo Drive",
+  "crossstreet" : "Menlo Drive",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2734675536",
+    "needs_recoding" : false,
+    "longitude" : "-76.6287385068"
+  },
+  "address" : "RUSSELL ST & BAYARD ST",
+  "street" : "Russell \n",
+  "intersection" : "Russell \n & Bayard St",
+  "crossstreet" : "Bayard St",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3226393684",
+    "needs_recoding" : false,
+    "longitude" : "-76.6666335903"
+  },
+  "address" : "LIBERTY HEIGHTS AVE & N DUKELAND ST",
+  "street" : "Liberty Hghts\n",
+  "intersection" : "Liberty Hghts\n  & Dukeland St",
+  "crossstreet" : "Dukeland St",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2498797679",
+    "needs_recoding" : false,
+    "longitude" : "-76.6137494417"
+  },
+  "address" : "S HANOVER & REEDBIRD AVE",
+  "street" : "Hanover \n",
+  "intersection" : "Hanover \n & Reedbird Ave",
+  "crossstreet" : "Reedbird Ave",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2905038859",
+    "needs_recoding" : false,
+    "longitude" : "-76.617661176"
+  },
+  "address" : "W FAYETTE ST & N LIBERTY ST",
+  "street" : "Fayette\n",
+  "intersection" : "Fayette\n  & Liberty Heights Ave",
+  "crossstreet" : "Liberty Heights Ave",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3135792902",
+    "needs_recoding" : false,
+    "longitude" : "-76.6762250182"
+  },
+  "address" : "GWYNNS FLS & GARRISON BLVD",
+  "street" : "Gwynns Falls \n",
+  "intersection" : "Gwynns Falls \n  & Garrison Blvd",
+  "crossstreet" : "Garrison Blvd",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3700602939",
+    "needs_recoding" : false,
+    "longitude" : "-76.5831798122"
+  },
+  "address" : "LOCH RAVEN BLVD & WALKER AVE",
+  "street" : "Loch Raven\n",
+  "intersection" : "Loch Raven\n  & Walker Ave",
+  "crossstreet" : "Walker Ave",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3086437141",
+    "needs_recoding" : false,
+    "longitude" : "-76.5323658645"
+  },
+  "address" : "PULASKI HWY & MORAVIA PARK DR",
+  "street" : "\nPulaski Hwy \n",
+  "intersection" : "\nPulaski Hwy \n & Moravia Park Drive",
+  "crossstreet" : "Moravia Park Drive",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2968601609",
+    "needs_recoding" : false,
+    "longitude" : "-76.6055317698"
+  },
+  "address" : "HILLEN ST & FORREST ST",
+  "street" : "Hillen \n",
+  "intersection" : "Hillen \n & Forrest St",
+  "crossstreet" : "Forrest St",
+  "direction" : "W/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3043275894",
+    "needs_recoding" : false,
+    "longitude" : "-76.5395800163"
+  },
+  "address" : "PULASKI HWY & NORTH POINT RD",
+  "street" : "Pulaski \n",
+  "intersection" : "Pulaski \n & North Point Blvd",
+  "crossstreet" : "North Point Blvd",
+  "direction" : "E/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.2987426878",
+    "needs_recoding" : false,
+    "longitude" : "-76.647517496"
+  },
+  "address" : "N MONROE ST & W LAFAYETTE AVE",
+  "street" : "Monroe\n",
+  "intersection" : "Monroe\n & Lafayette",
+  "crossstreet" : "Lafayette",
+  "direction" : "S/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3107672842",
+    "needs_recoding" : false,
+    "longitude" : "-76.6247302963"
+  },
+  "address" : "W MOUNT ROYAL AVE & W NORTH AVE",
+  "street" : "Mt Royal\n",
+  "intersection" : "Mt Royal\n & North",
+  "crossstreet" : "North",
+  "direction" : "N/B"
+}
+, {
+  "location_1" : {
+    "latitude" : "39.3108706445",
+    "needs_recoding" : false,
+    "longitude" : "-76.6251255783"
+  },
+  "address" : "MOUNT ROYAL TER & W NORTH AVE",
+  "street" : "Mt Royal\n",
+  "intersection" : "Mt Royal\n & North",
+  "crossstreet" : "North",
+  "direction" : "S/B"
+}
+ ]
