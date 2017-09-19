@@ -100,8 +100,5 @@ ENV/
 # mypy
 .mypy_cache/
 
-# pdf
-.pdf
-
-# Rhistory
-.Rhistory
+*.pdf
+*.Rhistory
