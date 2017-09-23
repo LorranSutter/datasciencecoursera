@@ -70,3 +70,71 @@ with(airquality, {
   plot(Temp, Ozone, main = "Ozone and Temperature")
   mtext("Ozone and Weather in New York City", outer = TRUE) # add outer title
 })
+
+
+# ----- Base Plot Demonstration -----
+example(points)  # Sequence of plots with points examples
+
+x <- rnorm(100)
+y <- rnorm(100)
+plot(x,y, xlab = "Width", ylab = "Height", pch = 20)
+title("Scatterplot")                                  # It is the same as put main param in plot
+text(-2,-2, "Label")
+legend("topleft", legend = "Data", pch = 20)
+fit <- lm(y~x)
+abline(fit, lwd = 3, col = "red")
+
+z <- rpois(100,2)
+par(mfrow = c(2,2), mar = c(4,2,2,2))  # mfrow sets plots in rowwise
+plot(x,y)
+plot(x,z)
+plot(y,x)
+plot(z,x)
+
+par(mfcol = c(2,2), mar = c(4,2,2,2)) # mfcol sets plots in colwise
+plot(x,y)
+plot(x,z)
+plot(y,x)
+plot(z,x)
+
+par(mfrow = c(1,1))
+x <- rnorm(100)
+y <- x + rnorm(100)
+g <- gl(2,50, labels = c("Male", "Female"))
+plot(x,y, type = "n")                                    # Make the plot, but do not show data
+# It works like a sample of same date from Male and Female group
+points(x[g == "Male"], y[g == "Male"], col = "green")    # Select first 25 samples
+points(x[g == "Female"], y[g == "Female"], col = "blue") # Select last 25 samples
+
+
+# ----- Graphics Devices in R (part 1) -----
+library(datasets)
+pdf(file = "myplot.pdf")                  # Open PDF device
+with(faithful, plot(eruptions, waiting))  # Create plot and send it automatically to a file
+title(main = "Old Faithful Geyser Data")  # Annotate plot
+dev.off()                                 # Close the PDF file device
+
+# Graphic file devices
+# Vector formats
+# pdf, svg (support animation and interactivity),
+# win.metafile (only Windows), postscript (older format, .ps, .eps)
+
+# Bitmap formats
+# png, jpeg, tiff, bmp (native Windows bitmapped format)
+
+# Multiple open graphics devices
+# Plotting can only occur on one graphic device at a time
+# Currently active graphics device can be found by calling dev.cur()
+# Every opened device has an ID
+# Change active graphic device with dev.set(ID)
+
+# Copying plots
+with(faithful, plot(eruptions, waiting))
+title(main = "Old Faithful Geyser Data")
+dev.copy(png, file = "geyserplot.png")   # Copy a plot to one device to another
+dev.off()
+
+with(faithful, plot(eruptions, waiting))
+title(main = "Old Faithful Geyser Data")
+dev.copy2pdf(file = "geyserplot.pdf")    # Specific function to copy one device to PDF
+dev.off()
