@@ -21,3 +21,8 @@ xyplot(y ~ x | f, panel = function(x,y,...){     # Custom panel function
   panel.xyplot(x,y,...)                          # First call default panel function for 'xyplot'
   panel.abline(h = median(y), lty = 2)           # Add horizontal line
 })
+
+xyplot(y ~ x | f, panel = function(x,y,...){     # Custom panel function
+  panel.xyplot(x,y,...)                          # First call default panel function for 'xyplot'
+  panel.lmline(x, y, col = 2)                    # Overlay a simple linear regression line
+})
