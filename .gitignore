@@ -104,3 +104,7 @@ ENV/
 *.Rhistory
 
 *.zip
+
+*.rds
+
+*.csv
