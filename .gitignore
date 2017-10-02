@@ -108,3 +108,7 @@ ENV/
 *.rds
 
 *.csv
+
+*.csv#
+
+Getting and Cleaning Data/jeff\.jpg
