@@ -45,3 +45,7 @@ mean(GDP_nonOECD$Ranking) # 91.91304
 
 
 # Question 05
+library(Hmisc)
+GDP$quantils <- cut2(GDP$Ranking, g = 5)
+teste_merge <- merge(eduStatistics,GDP, by.x = "CountryCode", by.y = "X", all = TRUE)
+table(teste_merge$quantils, teste_merge$Income.Group)   # 5

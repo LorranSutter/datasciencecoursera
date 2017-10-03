@@ -112,3 +112,5 @@ ENV/
 *.csv#
 
 Getting and Cleaning Data/jeff\.jpg
+
+Getting and Cleaning Data/UCI_HAR_Dataset/
